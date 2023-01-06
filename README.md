@@ -3,7 +3,7 @@
 <h1>Airbnb Listing Price Predictions with Tensorflow's Keras - Active Directory </h1>
 <h2>Key Findings</h2>
 
-The predicted impact of every dirty review on a listing is -0.036 days booked out of 90. At the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is significant with a p-value of 0.032 and an overall model fit (R²) of 0.126.
+Key Findings Here
  
 
 
@@ -12,21 +12,20 @@ The predicted impact of every dirty review on a listing is -0.036 days booked ou
 <a href="https://github.com/Riley-livingston"> @RileyLivingston</a>
 
 <h2>Description</h2>
-This project consists of exploritory analysis and a multivariate linear regression of publicly available Airbnb data. This directory will guide you through the steps I took and thought process in determining the relationship between dirty reviews in Airbnb listings and days booked out of 90. Version 1 of the Airbnb Listings Analysis for Cleaning Services project that showcasees SQL and Tableau can be found <a href="https://github.com/Riley-livingston/AirBnb-Listings-Analysis-for-Cleaning-Services"> here. </a>
+
+Description Here
 
 <br />
 
 <h2>Languages and packages used</h2>
 
-- MySQL
-- Python 3.10 | Numpy | Pandas | Sklearn
+- Python 3.10 | Numpy | Pandas | Sklearn | TensorFlow | MatPlotLib | Seaborn
   
 
 <h2>Environments used </h2>
 
 - VScode
-- Jupyter Notebook
-- Dbeaver 22.2.2
+- Jupyter Notebooks
 
 <h2>Data source</h2>
 
@@ -36,15 +35,16 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <h2>Methods</h2>
 
 - Exploratory data analysis
-- Multivariate linear regression
+-Feature Engineering
+- Multivariate linear regression using Neural Networks
 
 <h2>Data analysis process</h2>
 
 <p align="left">
  <u>Business task</u>:
  
-- Determine if there is a relationship between reviews that indicate uncleanliness of an airbnb listing and days booked out of a 90 day period.
-- If that relationship exists, what is the impact of every dirty review on average days booked out of 90 for a listing on Airbnb in NYC's 5 boroughs?
+  - Business task here
+  - Business task here
  
   - KEY METRICS
     - p-value, or statistical significance of the beta coefficent of the dirty_review variable/feature on days booked out of 90 for a listing.
