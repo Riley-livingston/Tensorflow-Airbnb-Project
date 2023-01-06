@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/OcLOedO.jpg" height = "100%" width="100%" alt = ">Airbnb Analysis for Cleaning Services"/>
 
-<h1>Airbnb Analysis for Cleaning Services in NYC v2 - Active Directory </h1>
+<h1>Airbnb Listings Price Predictions with Tensorflow's Keras - Active Directory </h1>
 <h2>Key Findings</h2>
 
 The predicted impact of every dirty review on a listing is -0.036 days booked out of 90. At the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is significant with a p-value of 0.032 and an overall model fit (R²) of 0.126.
