@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/OcLOedO.jpg" height = "100%" width="100%" alt = ">Airbnb Analysis for Cleaning Services"/>
+<img src="https://i.imgur.com/Y0StxzT.jpg" height = "25%" width="100%" alt = ">Airbnb Analysis for Cleaning Services"/>
 
 <h1>Airbnb Listing Price Predictions with Tensorflow's Keras - Active Directory </h1>
 <h2>Key Findings</h2>
