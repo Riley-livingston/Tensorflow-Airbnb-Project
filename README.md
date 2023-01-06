@@ -33,7 +33,7 @@ Description Here
 <h2>Methods</h2>
 
 - Exploratory data analysis
--Feature Engineering
+- Feature Engineering
 - Multivariate linear regression using Neural Networks
 
 <h2>Data analysis process</h2>
