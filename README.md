@@ -71,37 +71,7 @@ Description Here
 <u>Documentation of data processing and cleaning</u>: <br/>
   - 
  <br />
-  -
- <br />
- <br />
-   - 
- <br />
- <br />
-   - 
- <br />
- <br /> 
  
-   <br />
-   <br />
-   - 
-   <br />
-   <br />
-   - 
- <br />
- <br />
-    - 
- <br />
- <br />
-  - 
- <br />
- <br />
- -
- <br />
- <br />
- - 
-  <br />
-  <br />
-  
 <u>Analysis</u>:  
   <br />
   <a href="https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2/blob/main/airbnb_analysis_for_cleaning_services_v2.ipynb"> Jupyter Notebook Full ipynb File </a>
@@ -112,24 +82,10 @@ Description Here
 <br />
 <br />
   -
-<br />
-<br />
-  -
-<br />
-<br />
-  -
-<br />
-<br />
   
 Limitations:
  <br />
  <br />
-  -
-<br />
-<br />
-  -
-<br />
-<br />
   -
 <br/>
 <br/>
