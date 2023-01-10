@@ -45,8 +45,8 @@ Description Here
   - Business task here
  
   - KEY METRICS
-    - R²(The percent of varaince that can be explained by our model or how well our model fits the data on the test set.)
-    - Root mean squared error (RMSE) *We want to penalize large errors when predicting price per night so RMSE is chosen over the mean absolute error (MAE) * 
+    - The percent of varaince that can be explained by our model or how well our model fits the data on the test set (R²) or, Explained Variance Score
+    - Root mean squared error (RMSE) * We want to penalize large errors when predicting price per night so RMSE is chosen over the mean absolute error (MAE) * 
 
     - 
  
