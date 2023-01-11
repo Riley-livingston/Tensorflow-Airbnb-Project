@@ -46,7 +46,7 @@ Description Here
  
   - KEY METRICS
     - The percent of variance that can be explained by our model or how well our model fits the data on the test set (R²) or, Explained Variance Score
-    - Root mean squared error (RMSE) in $ per night compared to the median price per night of a listing * We want to penalize large errors when predicting price per night so RMSE is chosen over the mean absolute error (MAE). We are choosing to use a median instead of a mean since our data is skewed to the right. A median will provide us with a more accurate representation of the typical price per night. * *
+    - Root mean squared error (RMSE) in $/night compared to the median price per night of a listing * We want to penalize large errors when predicting price per night so RMSE is chosen over the mean absolute error (MAE). We are choosing to use a median instead of a mean since our data is skewed to the right. A median will provide us with a more accurate representation of the typical price per night. *
 
     - 
  
