@@ -93,7 +93,7 @@ Limitations:
  Future improvements:
 <br/>
 <br/>
--To further improve the model in predicting bookings, a backward stepwise regression apporach can be used to determine what features in the model are statistically significant in the overall model fit. An F test can be used to compare models and ultimatly arrive at the model that best fits the population.
+-To further improve the model, The number and type of features to be included in the model should be determined by performing feature selection techniques such as correlation analysis, univariate analysis, and recursive feature elimination.
 <br />
 <br />
--
+-Principal Component analysis (PCA) could be used to reduce the number of features in the model down to the most important information. In practice this would be used on much larger sets of data to reduce redundant features and computational cost.
