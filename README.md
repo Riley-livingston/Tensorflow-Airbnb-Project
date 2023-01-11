@@ -43,7 +43,9 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
 <p align="left">
  <u>Business task</u>:
  
-  - Business task here
+  - Create a Tensorflow Keras API neural network to predict the price per night for Airbnb listings in NYC. The network should be trained on a dataset containing information about Airbnb listings such as listing type, location, ratings, reviews, amenities, etc. 
+  <br />
+  - The network should be able to predict the price of a listing based on the data it has been trained on. The accuracy of the predictions should be evaluated using a metric such as the ROot mean squared error or the coefficient of determination.
  
   - KEY METRICS
     - The percent of variance that can be explained by our model or how well our model fits the data on the test set (R²) or, Explained Variance Score
