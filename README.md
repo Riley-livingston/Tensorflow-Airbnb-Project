@@ -44,7 +44,6 @@ Description Here
  <u>Business task</u>:
  
   - Business task here
-  - Business task here
  
   - KEY METRICS
     - The percent of variance that can be explained by our model or how well our model fits the data on the test set (R²) or, Explained Variance Score
