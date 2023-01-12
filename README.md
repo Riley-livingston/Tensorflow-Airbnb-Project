@@ -77,7 +77,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
  
 <u>Analysis</u>:  
   <br />
-  <a href="https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2/blob/main/airbnb_analysis_for_cleaning_services_v2.ipynb"> Jupyter Notebook Full ipynb File </a>
+  <a href="https://github.com/Riley-livingston/Tensorflow-Airbnb-Project/blob/main/airbnb_keras_linear_regression.ipynb"> Jupyter Notebook Full ipynb File </a>
   <br />
   <br />
  
