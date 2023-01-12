@@ -67,13 +67,6 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
  
    - Data used in this analysis is organized in 2 tables (listings and reviews) and columns in csv format. 
    - Integrity of the data source was verfified by choosing 10 random listings urls from the listings table listing_url column and comparing the listing information from the link to the data scraped and organized into columns in the reviews and listings tables.
-
- 
-<br />
-<br />
-<u>Documentation of data processing and cleaning</u>: <br/>
-  - 
- <br />
  
 <u>Analysis</u>:  
   <br />
