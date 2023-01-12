@@ -92,7 +92,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
  Future improvements/Limitations:
 <br/>
 <br/>
--To further improve the model, The number and type of features to be included in the model should be determined by performing feature selection techniques such as correlation analysis, univariate analysis, and recursive feature elimination.
+- To further improve the model, The number and type of features to be included in the model should be determined by performing feature selection techniques such as correlation analysis, univariate analysis, and recursive feature elimination.
 <br />
 <br />
--Principal Component analysis (PCA) could be used to reduce the number of features in the model down to the most important information. In practice this would be used on much larger sets of data to reduce redundant features and computational cost.
+- Principal Component analysis (PCA) could be used to reduce the number of features in the model down to the most important information. In practice this would be used on much larger sets of data to reduce redundant features and computational cost.
