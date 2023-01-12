@@ -50,7 +50,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
   - KEY METRICS
     - The percent of variance that can be explained by our model or how well our model fits the data on the test set (R²) or, Explained Variance Score
     - Root mean squared error (RMSE) in $/night compared to the median price per night of a listing * We want to penalize large errors when predicting price per night so RMSE is chosen over the mean absolute error (MAE). We are choosing to use a median and IQR instead of a mean and STD becasue our chosen resposne variable, price/night is heavily skewed to the right. A median will provide us with a more accurate representation of the typical price per night. * 
-    - The ratio of loss on the training data, and loss on the validation data (loss/val loss).  * In this case we want our validation data error to be significantly lower than the training error. This would indicate that our model is generalizing well and is able to accurately predict prices on Airbnb listings outside our dataset. * 
+    - The ratio of loss on the training data to loss on the validation data (loss/val loss).  * In this case we want our validation data error to be significantly lower than the training error. This would indicate that our model is generalizing well and is able to accurately predict prices on Airbnb listings outside our dataset. * 
  
 <br />
 <p align="left">
