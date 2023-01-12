@@ -84,9 +84,9 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
 <u>Key findings</u>:
 <br />
 <br />
-  <img src="https://i.imgur.com/3gN1xds.png" height = "100%" width="100%" alt = ">Validation Loss vs Training Loss"/>
-  <img src="https://i.imgur.com/Kc8CH1p.png" height = "100%" width="100%" alt = "> Error Distribution"/>
-  <img src="https://i.imgur.com/OoS5dgd.png" height = "100%" width="100%" alt = ">Predicted vs Actual Prices"/>
+  <img src="https://i.imgur.com/3gN1xds.png" height = "50%" width="50%" alt = ">Validation Loss vs Training Loss"/>
+  <img src="https://i.imgur.com/Kc8CH1p.png" height = "50%" width="50%" alt = "> Error Distribution"/>
+  <img src="https://i.imgur.com/OoS5dgd.png" height = "50%" width="50%" alt = ">Predicted vs Actual Prices"/>
  
   
  Future improvements/Limitations:
