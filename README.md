@@ -86,13 +86,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
 <br />
   -
   
-Limitations:
- <br />
- <br />
-  -
-<br/>
-<br/>
- Future improvements:
+ Future improvements/Limitations:
 <br/>
 <br/>
 -To further improve the model, The number and type of features to be included in the model should be determined by performing feature selection techniques such as pruning, correlation analysis, univariate analysis, and recursive feature elimination.
