@@ -27,7 +27,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
 
 <h2>Data Source</h2>
 
-- <a href="https://drive.google.com/drive/folders/1Q2yFaDajfJ6hALKMCmrQbHnFhsti44bO?usp=sharing"> Airbnb detailed listings and reviews data NYC 09-07-2022</a>
+- <a href="http://data.insideairbnb.com/united-states/ny/new-york-city/2022-09-07/data/listings.csv.gz"> Airbnb detailed listings and reviews data NYC 09-07-2022</a>
 - <a href="https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596"> Data dictionary</a>
 
 <h2>Methods</h2>
