@@ -82,6 +82,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
  - Our validation data converges with our training data and reaches an asymptote after about 15 epochs. It appears that the model with our selected features and parameters isnt overfitting or underfitting the dataset and we can use it to generalize or make predictions on listings outside of our dataset. 
  - However, we still have relatively high amount of error which indicates that our features dont explain enough of the variance in our dataset for it to be useful in prdicting price per night which would require relatively high percision.
   <img src="https://i.imgur.com/X3EkSPl.png" height = "50%" width="50%" alt = "> Error Distribution"/>
+  - The error of our model, or the actual prices in the testing data set - what our model predicted is normally distrbuted with a root mean squared error (RMSE) of about $67.79. With a mean price per night of $160 and a standard deviation of $114, I wouldnt recommend deploying this model to predict prices of Airbnb Listings based on our current model features.
   <img src="https://i.imgur.com/m5wgz2y.png" height = "50%" width="50%" alt = ">Predicted vs Actual Prices"/>
  
   
