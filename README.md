@@ -17,17 +17,17 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
 
 <br />
 
-<h2>Languages and packages used</h2>
+<h2>Languages and Packages Used</h2>
 
 - Python 3.10 | Numpy | Pandas | Sklearn | TensorFlow | MatPlotLib | Seaborn
   
 
-<h2>Environments used </h2>
+<h2>Environments Used </h2>
 
 - VScode
 - Jupyter Notebooks
 
-<h2>Data source</h2>
+<h2>Data Source</h2>
 
 - <a href="https://drive.google.com/drive/folders/1Q2yFaDajfJ6hALKMCmrQbHnFhsti44bO?usp=sharing"> Airbnb detailed listings and reviews data NYC 09-07-2022</a>
 - <a href="https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596"> Data dictionary</a>
@@ -38,7 +38,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
 - Feature Engineering
 - Multivariate linear regression using Neural Networks
 
-<h2>Data analysis process</h2>
+<h2>Data Analysis Process</h2>
 
 <p align="left">
  <u>Business task</u>:
@@ -100,7 +100,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
  
  
   
- Future improvements/Limitations:
+ Future improvements/limitations:
 <br/>
 - To further improve the model, The number and type of features to be included in the model should be determined by performing feature selection techniques such as correlation analysis, univariate analysis, and recursive feature elimination.
 - Principal Component analysis (PCA) could be used to reduce the number of features in the model down to the most important information. In practice this would be used on much larger sets of data to reduce redundant features and computational cost.
