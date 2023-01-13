@@ -81,6 +81,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
   <img src="https://i.imgur.com/3gN1xds.png" height = "50%" width="50%" alt = ">Validation Loss vs Training Loss"/>
  <br />
  -Our validation data converges with our training data and reaches an asymptote after about 15 epochs. It appears that the model with our selected features and parameters isnt overfitting or underfitting the dataset and we can use it to generalize or make predictions on listings outside of our dataset. 
+ <br />
  -However, we still have relatively high amount of error which indicates that our features dont explain enough of the variance in our dataset for it to be useful in prdicting price per night which would require relatively high percision.
  <br />
  <br />
@@ -91,7 +92,8 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
  <br/>
   <img src="https://i.imgur.com/m5wgz2y.png" height = "50%" width="50%" alt = ">Predicted vs Actual Prices"/>
  <br />
- -About 67% of the varaince in the dataset can be explained by our model. It appears that the predictive power of our features decreases as the price of a listing increases (The size of the error tends to get larger as prices increase). 
+ -About 67% of the varaince in the dataset can be explained by our model. It appears that the predictive power of our features decreases as the price of a listing increases (The size of the error tends to get larger as prices increase).
+ <br />
  -This could indicate that there is some feature in the error term presemt in high price listings we arent capturing in the model causing us to systemtically underpredict prices.
  <br/>
  <br/>
