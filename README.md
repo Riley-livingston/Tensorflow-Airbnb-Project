@@ -92,7 +92,7 @@ Because we are looking for relatively high percision in predicting prices, our m
  <br/>
   <img src="https://i.imgur.com/m5wgz2y.png" height = "50%" width="50%" alt = ">Predicted vs Actual Prices"/>
  <br />
- -About 67% of the varaince in the dataset can be explained by our model. It appears that the predictive power of our features decreases as the price of a listing increases (The size of the error tends to get larger as prices increase).
+ -About 67% of the variance in the dataset can be explained by our model. It appears that the predictive power of our features decreases as the price of a listing increases (The size of the error tends to get larger as prices increase).
  <br />
  -This could indicate that there is some feature in the error term presemt in high price listings we arent capturing in the model causing us to systemtically underpredict prices.
  <br/>
