@@ -14,9 +14,7 @@ Our model has an R² 0.6532 meaning our features can only account for 65.32% of 
 <h2>Description</h2>
 
  I used TensorFlow's Keras API to train a Neural network capable of predicting the price per night of airbnb listings in New York City. The ultimate purpose of this project is to develop and understanding of machiine learning model creation and selection, algorithms, and data analysis skills.
-
 <br />
-
 <h2>Languages and Packages Used</h2>
 
 - Python 3.10 | Numpy | Pandas | Sklearn | TensorFlow | MatPlotLib | Seaborn
