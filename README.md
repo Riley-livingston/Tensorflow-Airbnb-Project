@@ -96,7 +96,7 @@ Because we are looking for relatively high percision in predicting prices, our m
  <br />
  -This could indicate that there is some feature in the error term presemt in high price listings we arent capturing in the model causing us to systemtically underpredict prices.
  <br /> 
- Our model seems to systemically underpredict listing prices where the listing is over $400 per night.
+ -Our model seems to systemically underpredict listing prices where the listing is over $400 per night.
  <br/>
  <br/>
  
