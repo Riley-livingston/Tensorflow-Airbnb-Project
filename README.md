@@ -78,19 +78,19 @@ Because we are looking for relatively high percision in predicting prices, our m
 <u>Key findings</u>:
 <br />
 <br />
-  <img src="https://i.imgur.com/3gN1xds.png" height = "50%" width="50%" alt = ">Validation Loss vs Training Loss"/>
+  <img src="https://i.imgur.com/aCEN4ry.png" height = "50%" width="50%" alt = ">Validation Loss vs Training Loss"/>
  <br />
  -Our validation data converges with our training data and reaches an asymptote after about 15 epochs. It appears that the model with our selected features and parameters isnt overfitting or underfitting the dataset and we can use it to generalize or make predictions on listings outside of our dataset. 
  <br />
  -However, we still have relatively high amount of error which indicates that our features dont explain enough of the variance in our dataset for it to be useful in prdicting price per night which would require relatively high percision.
  <br />
  <br />
-  <img src="https://i.imgur.com/X3EkSPl.png" height = "50%" width="50%" alt = "> Error Distribution"/>
+  <img src="https://i.imgur.com/W7PcDYr.png" height = "50%" width="50%" alt = "> Error Distribution"/>
  <br />
  -The error of our model, or the actual prices in the testing data set - what our model predicted is normally distrbuted with a root mean squared error (RMSE) of about $67.79. With a mean price per night of $160 and a standard deviation of $114, I wouldnt recommend deploying this model to predict prices of Airbnb Listings based on our current model features.
  <br/>
  <br/>
-  <img src="https://i.imgur.com/m5wgz2y.png" height = "50%" width="50%" alt = ">Predicted vs Actual Prices"/>
+  <img src="https://i.imgur.com/PfqqqUa.png" height = "50%" width="50%" alt = ">Predicted vs Actual Prices"/>
  <br />
  -About 67% of the variance in the dataset can be explained by our model. It appears that the predictive power of our features decreases as the price of a listing increases (The size of the error tends to get larger as prices increase).
  <br />
