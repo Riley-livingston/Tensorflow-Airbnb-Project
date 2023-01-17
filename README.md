@@ -43,7 +43,7 @@ Because we are looking for relatively high percision in predicting prices, our m
 <p align="left">
  <u>Business task</u>:
  
-  - Create a Tensorflow Keras API neural network to predict the price per night for Airbnb listings in NYC. The network should be trained on a dataset containing information about Airbnb listings such as listing type, location, ratings, reviews, amenities, etc. 
+  - Create a TensorFlow Keras API neural network to predict the price per night for Airbnb listings in NYC. The network should be trained on a dataset containing information about Airbnb listings such as listing type, location, ratings, reviews, amenities, etc. 
   
   - The network should be able to predict the price of a listing based on the data it has been trained on. The accuracy of the predictions should be evaluated using a metric such as the Root mean squared error or the coefficient of determination.
  
