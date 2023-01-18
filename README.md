@@ -3,7 +3,7 @@
 
 With a root mean squared error (RMSE) of $76.75/night, a median price/night of $125, and 50% of listings falling between $75 and $200/night in the sample, our model is currently not very practical in deploying to predicting prices/night for Airbnbs in NYC with our chosen features. 
 
-Our model has an R² 0.5368 meaning our features can only account for 53.68% of the variation inthe dataset. 
+Our model has an R² 0.5368 meaning our features can only account for 53.68% of the variation in the dataset. 
 
 Because we are looking for relatively high percision in predicting prices, our model is not generalizable given the features of the dataset.
  
