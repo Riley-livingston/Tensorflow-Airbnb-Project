@@ -71,7 +71,7 @@ Because we are looking for relatively high percision in predicting prices, our m
  
 <u>Analysis</u>:  
   <br />
-  <a href="https://github.com/Riley-livingston/Tensorflow-Airbnb-Project/blob/main/airbnb_keras_linear_regression.ipynb"> Jupyter Notebook Full ipynb File </a>
+  <a href="https://github.com/Riley-livingston/Tensorflow-Airbnb-Project/blob/main/airbnb_keras_linear_regression.ipynb"> Full Jupyter Notebook </a>
   <br />
   <br />
  
