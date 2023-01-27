@@ -15,7 +15,7 @@ Because we are looking for relatively high percision in predicting prices, our m
 
 <h2>Description</h2>
 
- I used TensorFlow's Keras API to train a Neural network capable of predicting the price per night of Airbnb listings in New York City. The ultimate purpose of this project is to develop my  ability to use machine learning tools when analyzing data, and formulating models to solve business problems and make predictions.
+ I used TensorFlow's Keras API to train a Neural network capable of predicting the price per night of Airbnb listings in New York City. The ultimate purpose of this project is to expand my machine learning toolset when analyzing data, and formulating models to solve business problems and make predictions.
 <br />
 <h2>Languages and Packages Used</h2>
 
