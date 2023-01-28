@@ -1,7 +1,7 @@
 <h1>Airbnb Listing Price Predictions with Tensorflow's Keras - Active Directory </h1>
 <h2>Key Findings</h2>
 
-With a root mean squared error (RMSE) of $66.22/night, a median price/night of $143, and 50% of listings falling between $75 and $200/night in the sample, our model is currently not very practical in deploying to predicting prices/night for Airbnbs in NYC with our chosen features. 
+With a root mean squared error (RMSE) of $66.22/night, a median price/night of $143, and 50% of listings falling between $85 and $230/night in the data, our model is currently not accurate enough in predicting prices/night for Airbnbs in NYC with our chosen features. 
 
 Our model has an R² 0.6845 meaning our features can only account for 68.45% of the variation in the dataset. 
 
