@@ -78,7 +78,7 @@ Because we are looking for relatively high percision in predicting prices, our m
 <u>Key findings</u>:
 <br />
 <br />
-  <img src="https://i.imgur.com/aCEN4ry.png" height = "50%" width="50%" alt = ">Validation Loss vs Training Loss"/>
+  <img src="https://i.imgur.com/WQtBLyJ.png" height = "50%" width="50%" alt = ">Validation Loss vs Training Loss"/>
  <br />
  -Our validation data converges with our training data and reaches an asymptote after about 50 epochs using early stopping callbacks. based on this metric, the model with our selected features and parameters isn't overfitting or underfitting the dataset and we can use it to generalize or make predictions on listings outside of our dataset. 
  <br />
