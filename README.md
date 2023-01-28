@@ -85,7 +85,7 @@ Because we are looking for relatively high percision in predicting prices, our m
  -However, we still have relatively high amount of error which indicates that our features don't explain enough of the variance in our dataset for it to be reliably useful in prdicting price per night which would require relatively high percision.
  <br />
  <br />
-  <img src="https://i.imgur.com/W7PcDYr.png" height = "50%" width="50%" alt = "> Error Distribution"/>
+  <img src="https://i.imgur.com/S9muXMN.png" height = "50%" width="50%" alt = "> Error Distribution"/>
  <br />
  -The error, or the actual prices in the testing data set - what our model predicted is normally distrbuted with a root mean squared error (RMSE) of about $76.75. With a mean price per night of $160 and a standard deviation of $114, I wouldn't recommend deploying the model with these features to predict prices of Airbnb Listings.
  <br/>
