@@ -101,5 +101,5 @@ Because we are looking for relatively high percision in predicting prices, our m
  <br/>
  Future improvements/limitations:
 <br/>
-- To further improve the model, the number and type of features to be included in the model should be determined by performing feature selection techniques such as correlation analysis, univariate analysis, and recursive feature elimination.
+- To further improve the model, the number and type of features to be included in the model should be determined by performing more advanced feature selection techniques such as correlation analysis, univariate analysis, and recursive feature elimination.
 - More feature engineering should be done in future iteration of this model, particularly on the amenitites column. We could transform this column by turning each word that appears into a dummy variable and then use feature elimination techniques to determine which specific amenities are most positively and negatively correlated with price per night.
