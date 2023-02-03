@@ -5,7 +5,7 @@ With a root mean squared error (RMSE) of $66.22/night, a median price/night of $
 
 Our model has an R² 0.6845 meaning our features can only account for 68.45% of the variation in the dataset. 
 
-Because we are looking for relatively high percision in predicting prices, our model is not generalizable given the features of the dataset.
+Because we are looking for relatively high percision in predicting prices, our model would benefit from more data and explanatory features of high priced listings to decrease the root mean squared errors.
  
 
 
